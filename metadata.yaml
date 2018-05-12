@@ -1,0 +1,39 @@
+_repo: Ley-porque-V.-Magestade-ha-por-bem-restituir-aos-indios-do-Gr-o-Par--e-Maranh-o-a-liberdade-d__24289
+_version: 0.1.0
+alternative_title: Lei, porque V. Majestade há por bem restituir aos índios do Grão
+  Pará, e Maranhão a liberdade das suas pessoas, e bens etc.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24289'
+language: pt
+language_note: This ebook uses an 18th century spelling
+production_note: "Produced by Júlio Reis and Manuela Alves. The images for\r\nthis\
+  \ file were generously made available by Biblioteca\r\nNacional Digital ( http://bnd.bn.pt\
+  \ )."
+publication_note: "Lisboa:\r\n1755"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal. Laws, etc.'
+- !lcc 'KH'
+- !lcsh 'Indians of South America -- Legal status, laws, etc. -- Brazil -- Early works
+  to 1800'
+- !lcsh 'Indians, Treatment of -- Brazil -- Early works to 1800'
+title: Ley, porque V. Magestade ha por bem restituir aos indios do Grão Pará, e Maranhão
+  a liberdade das suas pessoas, e bens etc.
+url: http://www.gutenberg.org/ebooks/24289
